@@ -17,3 +17,23 @@ El sitio está optimizado para buscadores (SEO básico), es responsive (adaptabl
 
 ## 🧱 Estructura del proyecto
 
+
+
+
+## 📄 Derechos de uso y propiedad
+
+Este proyecto ha sido desarrollado de forma exclusiva para el cliente.
+Todos los derechos patrimoniales del código fuente, diseño y estructura
+pertenecen al cliente una vez realizado el pago total del proyecto.
+
+El desarrollador conserva los derechos morales de autoría.
+Queda prohibida la reproducción, reutilización o distribución del código
+sin autorización expresa del cliente.
+
+
+
+
+
+
+
+
